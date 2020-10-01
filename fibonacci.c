@@ -16,7 +16,7 @@ int main(){
 
    for(cont=0;cont<n;cont++){
 
-             fibonacci = val1 + val2;
+             fibonacci = val1 + val2; //Se suma los dos primeros valores, es decir 0 y 1, y conforme se hace la iteración, el val1 y val2 se modifican
 
              printf("%d\n",fibonacci);
 
